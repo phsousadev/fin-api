@@ -5,7 +5,6 @@ Este repositório contém o código do backend desenvolvido para o trabalho da d
 ## 📦 Objetivo
 
 Apenas construir uma simples API que possa ficar disponível publicamente utilizando AWS.
-F
 
 ## 🛠️ Tecnologias Utilizadas
 
